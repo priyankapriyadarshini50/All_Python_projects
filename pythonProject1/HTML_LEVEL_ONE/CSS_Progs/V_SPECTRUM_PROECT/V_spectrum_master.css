@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Kirang Haerang', cursive;
+    text-align:center;
+}
+
+
+td{
+    border: 4px solid white;
+    width:100px;
+    height:250px;
+}
+table{
+    margin: auto;
+}
+
+#col1{
+    background:rgb(38, 70, 83);
+}
+#col2{
+    background:rgb(42, 157, 143);
+    }
+#col3{
+    background:rgb(233, 196, 106);
+    }
+#col4{
+    background:rgb(244, 162, 97);
+    }
+#col5{
+    background:rgb(231, 111, 81);
+   }

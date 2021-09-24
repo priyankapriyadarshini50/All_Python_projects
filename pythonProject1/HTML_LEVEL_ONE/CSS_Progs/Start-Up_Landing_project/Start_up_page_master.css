@@ -1,0 +1,46 @@
+body{
+    text-align:center;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #1e224a;
+    color:white;
+    border-left:60px solid #2ac9b7;
+    border-bottom:60px solid #2ac9b7;
+    border-right:60px solid #2ac9b7;
+    margin:0px;
+
+    }
+
+
+.my_div{
+   /*:1px solid #1e224a ;
+   width:600px;
+   height:200px;
+   text-align:justify;
+   font-size:15px;
+   margin: auto; */
+   /*Another approach is padding*/
+   padding-left:20%;
+   padding-right:20%;
+   padding-top:2%;
+
+}
+
+form{
+    margin-bottom:10px;
+    font-size:20px;
+}
+#f_name,#l_name, #mail{
+    width:220px;
+    height:25px;
+    border:2px solid black;
+
+}
+#sub{
+   background-color:#fc9803;
+   height:60px;
+   width:100px;
+   margin: 2px;
+   margin-top:6px;
+   font-size:0.8em;
+   border-radius:20px;
+}

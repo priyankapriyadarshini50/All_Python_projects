@@ -1,0 +1,30 @@
+.firstDiv{
+    color: red;
+}
+.secondDiv{
+    color: blue;
+}
+#singlet{
+    color: green;
+    text-decoration: underline
+  }
+h3 + ul{
+    color:purple;
+    border: 4px black dotted;
+}
+li a{
+    color: magenta;
+}
+li a[href= "www.npr.org"]{
+    color: gray;
+}
+ol{
+ color: magenta;
+}
+.topitems{
+    color: yellow;
+   }
+#sc{
+    color:black;
+}
+

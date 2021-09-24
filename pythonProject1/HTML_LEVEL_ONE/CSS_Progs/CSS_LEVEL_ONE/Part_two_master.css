@@ -1,0 +1,18 @@
+/*Body background can be an image using url(path) */
+body{
+    background:url("https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png");
+    background-repeat: repeat;
+}
+div{
+    background: gray;
+    border-width: 4px;
+    border-color:blue;
+    border-style: solid;
+}
+p{
+    color: yellow;
+}
+span{
+    background: green;
+    color: white;
+}

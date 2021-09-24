@@ -1,0 +1,19 @@
+#top{
+    border:5px solid blue;
+    width:30%;
+    text-align:center;
+    margin-top: 30px;
+    margin-right:10px;
+    margin-bottom:100px;
+    margin-left: 400px;
+
+    /*or we can write in one line margin:top right bottom left*/
+}
+#bottom{
+    border:5px solid red;
+    width:50%;
+    text-align:center;
+    padding-top:50px;
+    padding-bottom:50px;
+
+}

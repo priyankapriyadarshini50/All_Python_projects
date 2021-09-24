@@ -1,0 +1,19 @@
+h2{
+    font-family:"Arial";
+    text-align: center;
+}
+
+/*p{
+    font-family:"Calibri";
+    font-style:Italic;
+    font-weight:bold;
+}
+ /* 1em = 16px, similarly 2em=32px*/
+body{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size:18px;
+    color:black;
+}
+#two{
+    font-size: 1em;
+    }
